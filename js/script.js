@@ -37,7 +37,7 @@ const displayPosts = (posts) => {
                      </div>
                      </div>
                     </div>
-                    <div class="space-y-3">
+                    <div class="w-full lg:w-3/4 space-y-3">
                        <div class="space-x-2">
                            <span># Music</span>
                            <span>Author : ${author[0]}</span>
